@@ -1,6 +1,6 @@
 ## Demo
 
-Live Demo - [Prachi Chittora](https://prachiii.vercel.app/)
+Visit Site - [Prachi Chittora](https://prachiii.vercel.app/)
 
 
 [![Portfolio-Prachichittora.png](https://i.postimg.cc/nVkL1ynL/Portfolio-Prachichittora.png)](https://postimg.cc/qgN0JZhf)
